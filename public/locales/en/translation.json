@@ -1,0 +1,28 @@
+{
+  "appHeader": {
+    "brand": "Vu Hong Viet",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skills",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About Me",
+    "and": "&",
+    "heading1": "I write code that works, and sometimes even sings. 🎶",
+    "heading2": "Tech is my playground — from pixels to pipelines.",
+    "heading3": "Curiosity drives me, caffeine fuels me. ☕",
+    "heading4": "Crafting clean UX and smart systems is my jam.",
+    "heading5": "If it’s broken, I’ll debug it. If it’s boring, I’ll rebuild it."
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  }
+}

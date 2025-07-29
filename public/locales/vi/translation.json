@@ -1,0 +1,28 @@
+{
+  "appHeader": {
+    "brand": "Vu Hong Viet",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Về tôi",
+    "and": "và",
+    "heading1": "Tôi viết code chạy mượt, đôi khi còn có giai điệu. 🎶",
+    "heading2": "Công nghệ là sân chơi của tôi — từ pixel đến pipeline.",
+    "heading3": "Tò mò dẫn lối, cà phê tiếp sức. ☕",
+    "heading4": "Thiết kế UX trực quan và hệ thống thông minh là sở trường.",
+    "heading5": "Thứ gì lỗi thì tôi sửa, thứ gì chán thì tôi viết lại cho vui."
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  }
+}
