@@ -24,7 +24,7 @@ export const EXPERIENCES = [
             en: "ABCXYZ Ltd."
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
+            vi: "Tháng 1/2024 - Hiện tại",
             en: "Jan 2024 - Present"
         }
     },
