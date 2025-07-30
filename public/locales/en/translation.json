@@ -11,13 +11,13 @@
     "cv": "Get Resume"
   },
   "introSection": {
-    "about": "About Me",
-    "and": "&",
-    "heading1": "I write code that works, and sometimes even sings. 🎶",
-    "heading2": "Tech is my playground — from pixels to pipelines.",
-    "heading3": "Curiosity drives me, caffeine fuels me. ☕",
-    "heading4": "Crafting clean UX and smart systems is my jam.",
-    "heading5": "If it’s broken, I’ll debug it. If it’s boring, I’ll rebuild it."
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Lỡ tay rơi vào nghề code... may mà đáp xuống đúng hướng. Giờ vẫn đang mò đường.",
+    "heading2": "Thành thạo:",
+    "heading3": "Đam mê lập trình mấy thứ hữu ích (đôi khi hơi kỳ cục).",
+    "heading4": "Giải pháp web và SAP — thứ làm mình vừa vui vừa đau đầu.",
+    "heading5": "Khi cà phê ngấm, mình xây nên mấy cái thú vị bằng"
   },
   "experience": {
     "title": "Experiences"

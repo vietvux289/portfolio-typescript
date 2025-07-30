@@ -1,14 +1,14 @@
 import { Col, Row } from "react-bootstrap";
-import AnimationLottie from "share/animation-lottie";
+import AnimationLottie from "@/components/share/animation-lottie";
 import codingJSON from "assets/lottie/coding.json";
 import { DEVELOPMENT_LOTTIE } from "assets/lottie/string/development";
 import { CONTACT_LOTTIE } from "assets/lottie/string/contact";
 
-import GlowCard from "share/glow-card";
+import GlowCard from "@/components/share/glow-card";
 import { FaGraduationCap } from "react-icons/fa6";
-import Divider from "../divider";
+import Divider from "components/sections/divider";
 import { APP_DATA } from "@/helpers/data.ts";
-import SocialMedia from "social.media";
+import SocialMedia from "components/sections/social.media";
 
 const About = () => {
   return (
@@ -35,7 +35,7 @@ const About = () => {
             <ul>
               <li>Playing games</li>
               <li>Watching films</li>
-              <li>Travelling</li>
+              <li>Traveling</li>
             </ul>
           </div>
           <div>
@@ -84,9 +84,9 @@ const About = () => {
                         <FaGraduationCap size={36} />
                       </div>
                       <div className="info">
-                        <p className="title">Softwaren Engineer</p>
+                        <p className="title">Software Engineer</p>
                         <p className="company">
-                          Hanoi University of Science and Technology (HUST)
+                          Hanoi University (HANU)
                         </p>
                       </div>
                     </div>
