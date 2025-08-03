@@ -4,7 +4,7 @@ A sleek and responsive personal portfolio built with **React** and **TypeScript*
 
 ---
 
-## 🚀 Runtime Environment
+## 🚀 Install Runtime Environment
 
 - **Node.js Version:** `20.14.0`  
   🔗 [Download Node.js 20.14.0](https://nodejs.org/download/release/v20.14.0/)
