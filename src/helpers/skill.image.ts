@@ -72,6 +72,8 @@ import vuetifyjs from 'assets/svg/skills/vuetifyjs.svg';
 import webix from 'assets/svg/skills/webix.svg';
 import wolframalpha from 'assets/svg/skills/wolframalpha.svg';
 import wordpress from 'assets/svg/skills/wordpress.svg';
+import sap from 'assets/svg/skills/sap.svg';
+
 
 
 export const skillsImage = (skill: string) => {
@@ -225,6 +227,8 @@ export const skillsImage = (skill: string) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "sap abap":
+      return sap;
     default:
       break;
   }

@@ -1,6 +1,7 @@
 {
   "appHeader": {
-    "brand": "Vu Hong Viet",
+    "brand": "vhv.net",
+    "author": "Vũ Hồng Việt",
     "home": "Trang chủ",
     "project": "Dự án",
     "contact": "Liên hệ",
@@ -11,18 +12,66 @@
     "cv": "Tải Resume"
   },
   "introSection": {
-    "about": "Về tôi",
+    "about": "Giới thiệu",
     "and": "và",
-    "heading1": "Tôi viết code chạy mượt, đôi khi còn có giai điệu. 🎶",
-    "heading2": "Công nghệ là sân chơi của tôi — từ pixel đến pipeline.",
-    "heading3": "Tò mò dẫn lối, cà phê tiếp sức. ☕",
-    "heading4": "Thiết kế UX trực quan và hệ thống thông minh là sở trường.",
-    "heading5": "Thứ gì lỗi thì tôi sửa, thứ gì chán thì tôi viết lại cho vui."
+    "frameworks": "frameworks của chúng.",
+    "heading1": "Lỡ sa vào code — ai ngờ lại hợp.",
+    "heading2": "Thành thạo:",
+    "heading3": "Thích build mấy thứ hữu ích (đôi khi hơi điên):",
+    "heading4": "Web & SAP ABAP - vừa vui, vừa đau đầu, nhưng đúng gu.",
+    "heading5": "Có tý cà phê vào là bắt đầu code:"
   },
   "experience": {
     "title": "Kinh nghiệm làm việc"
   },
   "skill": {
     "title": "Kỹ năng"
+  },
+  "projectSection": {
+    "title": {
+      "part1": "Những ",
+      "part2": "Dự án gần đây"
+    },
+    "subtitle": "Đây là một vài dự án tôi đã thực hiện gần đây.",
+    "projects": {
+      "1": {
+        "title": "Lập trình di động",
+        "description": "Dự án xây dựng ứng dụng di động đa nền tảng bằng React Native."
+      },
+      "2": {
+        "title": "Giao diện người dùng",
+        "description": "Dự án front-end hiện đại sử dụng React và Ant Design để tạo UI trực quan."
+      },
+      "3": {
+        "title": "Xử lý phía máy chủ",
+        "description": "Ứng dụng backend sử dụng Spring MVC và kiến trúc REST API."
+      }
+    }
+  },
+  "aboutSection": {
+    "heading": "<1>TÔI</1> LÀ AI",
+    "intro": {
+      "line1": "Chào mọi người, mình là Vũ Hồng Việt đến từ Nam Định, Việt Nam.",
+      "line2": "Hiện tại mình đang làm Web Developer và SAP ABAP Developer.",
+      "line3": "Mình đã tốt nghiệp ngành Kỹ sư phần mềm tại Đại học Hà Nội (HANU)."
+    },
+    "activities": {
+      "intro": "Ngoài việc lập trình, mình còn thích:",
+      "list": ["Chơi game", "Xem phim", "Đi du lịch"]
+    },
+    "quote": {
+      "text": "Thiên tài là 1% tài năng và 99% là sự chăm chỉ...",
+      "author": "--Albert Einstein---"
+    },
+    "education": {
+      "title": "Học vấn",
+      "duration": "Tháng 08/2019 - Tháng 06/2024",
+      "degree": "Kỹ sư phần mềm",
+      "school": "Đại học Hà Nội (HANU)"
+    },
+    "contact": {
+      "title": "TÌM TÔI QUA",
+      "cta": "Liên hệ với tôi"
+    }
   }
 }

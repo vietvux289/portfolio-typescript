@@ -34,8 +34,7 @@ const Introduction = () => {
               {t("introSection.heading2")} &nbsp;
               <i>
                 <b className="text-pink-100">
-                  {" "}
-                  Java {t("introSection.and")} Javascript.{" "}
+                  Java {t("introSection.and")} Javascript{" "} {t("introSection.and")} {t("introSection.frameworks")}
                 </b>
               </i>
               <br />
@@ -48,11 +47,11 @@ const Introduction = () => {
               <br />
               {t("introSection.heading5")}
               <i>
-                <b className="text-pink-100">&nbsp;Java Spring</b>{" "}
+                <b className="text-pink-100">&nbsp;ReactJS</b>{" "}
               </i>
               {t("introSection.and")}
               <i>
-                <b className="text-pink-100"> Node.js</b>
+                <b className="text-pink-100"> SpringBoot.</b>
               </i>
             </p>
           </Col>

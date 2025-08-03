@@ -32,6 +32,12 @@ a {
         color: var(--brand-social);
     }
 
+    &:hover {
+        color: var(--brand-name-100);
+         text-decoration: none;
+        transform: scale(1.2);
+        transition: transform 0.2s ease-in-out;
+    }
 }
 
 
@@ -88,8 +94,9 @@ body {
     font-weight: 600;
 
     &:hover {
-        gap: 10px;
         text-decoration: none;
+        transform: scale(1.05);
+        transition: transform 0.2s ease-in-out;
     }
 }
 

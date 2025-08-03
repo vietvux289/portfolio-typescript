@@ -1,28 +1,77 @@
 {
   "appHeader": {
-    "brand": "Vu Hong Viet",
+    "brand": "vhv.net",
+    "author": "Vu Hong Viet",
     "home": "Home",
     "project": "Project",
     "contact": "Contact",
     "about": "About"
   },
   "heroSection": {
-    "exp": "My Skills",
+    "exp": "My Experiences",
     "cv": "Get Resume"
   },
   "introSection": {
-    "about": "Giới thiệu",
-    "and": "và",
-    "heading1": "Lỡ tay rơi vào nghề code... may mà đáp xuống đúng hướng. Giờ vẫn đang mò đường.",
-    "heading2": "Thành thạo:",
-    "heading3": "Đam mê lập trình mấy thứ hữu ích (đôi khi hơi kỳ cục).",
-    "heading4": "Giải pháp web và SAP — thứ làm mình vừa vui vừa đau đầu.",
-    "heading5": "Khi cà phê ngấm, mình xây nên mấy cái thú vị bằng"
+    "about": "About",
+    "and": "and",
+    "frameworks": "related frameworks",
+    "heading1": "Fell into coding by accident — turns out, it suits me.",
+    "heading2": "Skilled in:",
+    "heading3": "Building useful (sometimes quirky) stuff:",
+    "heading4": "Web & SAP ABAP - fun, frustrating, and totally my thing.",
+    "heading5": "Fueled by coffee, powered by code:"
   },
   "experience": {
     "title": "Experiences"
   },
   "skill": {
     "title": "Skills"
+  },
+  "projectSection": {
+    "title": {
+      "part1": "My Recent ",
+      "part2": "Projects"
+    },
+    "subtitle": "Here are a few projects I've worked on recently.",
+    "projects": {
+      "1": {
+        "title": "Mobile Programming",
+        "description": "This project is about building cross-platform mobile apps using React Native."
+      },
+      "2": {
+        "title": "Front-end",
+        "description": "A modern front-end project using React and Ant Design to create clean UI."
+      },
+      "3": {
+        "title": "Back-end",
+        "description": "A backend application using Spring MVC and REST API architecture."
+      }
+    }
+  },
+  "aboutSection": {
+    "heading": "WHO <1>I'M</1>",
+    "intro": {
+      "line1": "Hi Everyone, I am Vu Hong Viet from Nam Dinh, VietNam.",
+      "line2": "I'm currently working as a Web Developer and also a SAP ABAP Developer.",
+      "line3": "I have completed Bachelor's degree in Software Engineer at Hanoi University (HANU)."
+    },
+    "activities": {
+      "intro": "Apart from coding, here are some activities I enjoy:",
+      "list": ["Playing games", "Watching films", "Traveling"]
+    },
+    "quote": {
+      "text": "Genius is 1% talent and 99% hard work...",
+      "author": "--Albert Einstein---"
+    },
+    "education": {
+      "title": "Education",
+      "duration": "August 2019 - June 2024",
+      "degree": "Software Engineer",
+      "school": "Hanoi University (HANU)"
+    },
+    "contact": {
+      "title": "FIND ME ON",
+      "cta": "Contact me"
+    }
   }
 }
