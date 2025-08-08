@@ -4,7 +4,10 @@ A sleek and responsive personal portfolio built with **React** and **TypeScript*
 
 ---
 
-## 🚀 Install Runtime Environment
+## 🚀 Deployment
+  🌐 [Visit my portfolio](https://portfolio-typescript-sand.vercel.app/)
+
+## 💻 Install Runtime Environment
 
 - **Node.js Version:** `20.14.0`  
   🔗 [Download Node.js 20.14.0](https://nodejs.org/download/release/v20.14.0/)
@@ -18,10 +21,10 @@ Follow the steps below to set up the project for development or production use.
 ### 🧪 Development Setup
 
 1. **Clone the repository**  
-   `git clone <repository-url>`  
+   `git clone https://github.com/vietvux289/portfolio-typescript.git`  
 
 2. **Navigate into the project directory**  
-   `cd <project-name>`  
+   `cd portfolio-typescript`  
 
 3. **Install dependencies**  
    `npm install`  
@@ -34,13 +37,13 @@ Follow the steps below to set up the project for development or production use.
 
 ---
 
-### 🌐 Production Setup
+### 🗂 Production Setup
 
 1. **Clone the repository**  
-   `git clone <repository-url>`  
+   `git clone https://github.com/vietvux289/portfolio-typescript.git`  
 
 2. **Navigate into the project directory**  
-   `cd <project-name>`  
+   `cd cd portfolio-typescript`  
 
 3. **Install dependencies**  
    `npm install`  
